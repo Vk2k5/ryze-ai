@@ -1,5 +1,5 @@
 import Hero from '../components/Hero'
-import WallOfLove from '../components/WallOfLove'
+import WallOfLove from '../components/WallofLove'
 import TrustedBy from '../components/TrustedBy'
 import Stats from '../components/Stats'
 
